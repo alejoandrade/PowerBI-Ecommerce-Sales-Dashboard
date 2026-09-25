@@ -1,6 +1,6 @@
 # PowerBI-Ecommerce-Sales-Dashboard
 Executive Power BI Sales Dashboard analyzing 3.6K+ e-commerce transactions for FY 2024.
-![Dashboard Preview](assets/Dashboard_Preview.png)
+![Dashboard Preview](Dashboard_Preview.png)
 
 ## Overview & Metrics
 * **Total Net Revenue:** $757.28K
