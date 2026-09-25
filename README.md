@@ -10,7 +10,6 @@ Executive Power BI Sales Dashboard analyzing 3.6K+ e-commerce transactions for F
 
 ## Technical Highlights
 * **Power Query ETL:** Resolved regional locale issues to correctly parse decimal prices from the source CSV.
-* **Data Model:** Star schema linking a custom DAX table to the sales fact table ($1:*$).
 * **DAX Measures:** Custom measures for Net Revenue, Order Count, AOV, and Discount Averages.
 
 ## Key Takeaways
