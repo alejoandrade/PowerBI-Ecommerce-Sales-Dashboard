@@ -9,8 +9,8 @@ Executive Power BI Sales Dashboard analyzing 3.6K+ e-commerce transactions for F
 * **Average Discount Rate:** 18.83%
 
 ## Technical Highlights
-* **Power Query ETL:** Resolved regional locale issues (`US English`) to correctly parse decimal prices from the source CSV.
-* **Data Model:** Star schema linking a custom DAX `Dim_Calendar` table to the sales fact table ($1:*$).
+* **Power Query ETL:** Resolved regional locale issues to correctly parse decimal prices from the source CSV.
+* **Data Model:** Star schema linking a custom DAX table to the sales fact table ($1:*$).
 * **DAX Measures:** Custom measures for Net Revenue, Order Count, AOV, and Discount Averages.
 
 ## Key Takeaways
